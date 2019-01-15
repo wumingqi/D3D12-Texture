@@ -38,4 +38,7 @@
       <Filter>资源文件</Filter>
     </CustomBuild>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="README.md" />
+  </ItemGroup>
 </Project>
