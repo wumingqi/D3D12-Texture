@@ -1,5 +1,6 @@
 # D3D12-Texture
 ## 使用D3D12的纹理来显示一张图片，图片的格式可以是WIC支持的任意格式
+![截图](D3D12-Texture.png)
 ```
 float x = m_img.width / (float)m_width;
 float y = m_img.height / (float)m_height;
